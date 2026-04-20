@@ -1,4 +1,4 @@
-# Self-Pruning Neural Network (CIFAR-10)
+# Self-Pruning Neural Network 
 
 This project implements a self-pruning neural network using a custom `PrunableLinear` layer in PyTorch. The model learns to automatically prune unnecessary weights using learnable gates and L1 regularization.
 
@@ -24,4 +24,4 @@ This project implements a self-pruning neural network using a custom `PrunableLi
 ##  How to Run
 
 ```bash
-python self_pruning_cifar10.py
+python self_pruning_.py
